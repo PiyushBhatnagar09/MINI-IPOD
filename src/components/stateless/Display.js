@@ -36,6 +36,7 @@ const Display = (props) => {
             borderTopLeftRadius: "10%",
             borderTopRightRadius: "10%",
             zIndex: 2,
+            objectFit: "cover"
           }}
         />
       )}

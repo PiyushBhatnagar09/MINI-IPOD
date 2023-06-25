@@ -24,9 +24,9 @@ const Controller = (props) => {
 	// Changing the Controller Container Theme
 	const styling = () => {
 		if (theme.themeIndex === 0) {
-			return { background: "linear-gradient(90deg, #e3e4e5,#cacaca)" };
+			return { background: "linear-gradient(45deg, #def1f6, gray)"};
 		} else {
-			return { backgroundColor: "black" };
+			return { backgroundColor: "rgb(41, 40, 40)" };
 		}
 	};
 	

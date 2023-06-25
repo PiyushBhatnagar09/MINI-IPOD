@@ -100,7 +100,7 @@ class App extends React.Component {
       // State Managing the Themes
       theme: {
         themeList: ["Classic", "Dark"],
-        themeIndex: 0
+        themeIndex: 1
       }
     };
 
@@ -435,7 +435,10 @@ class App extends React.Component {
     return (
       <>
       <Navbar/>
-      <p><b>NOTE:</b> Click and hold middle circle button or the outer circular area and move the cursor in clockwise/anticlockwise direction to navigate in the menu.</p>
+      <p style={{
+                  backgroundColor: "bisque",
+                  padding: "5px 20px"
+                }}><b>NOTE:</b> Click and hold middle circle button or the outer circular area and move the cursor in clockwise/anticlockwise direction to navigate in the menu.</p>
       <div className="App">
         <Ipod
           screen={screen}
