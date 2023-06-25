@@ -1,0 +1,13 @@
+add this in package.json :-
+  "homepage": "https://PiyushBhatnagar09.github.io/MINI-IPOD",
+
+npm install --save gh-pages
+
+add this in the 'scripts' in package.json :-
+"scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    //other lines
+}
+
+npm run deploy

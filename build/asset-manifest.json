@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MINI-IPOD/static/css/main.3c43b714.chunk.css",
+    "main.js": "/MINI-IPOD/static/js/main.b4c49a07.chunk.js",
+    "main.js.map": "/MINI-IPOD/static/js/main.b4c49a07.chunk.js.map",
+    "runtime-main.js": "/MINI-IPOD/static/js/runtime-main.578761dc.js",
+    "runtime-main.js.map": "/MINI-IPOD/static/js/runtime-main.578761dc.js.map",
+    "static/js/2.71b75e01.chunk.js": "/MINI-IPOD/static/js/2.71b75e01.chunk.js",
+    "static/js/2.71b75e01.chunk.js.map": "/MINI-IPOD/static/js/2.71b75e01.chunk.js.map",
+    "index.html": "/MINI-IPOD/index.html",
+    "static/css/main.3c43b714.chunk.css.map": "/MINI-IPOD/static/css/main.3c43b714.chunk.css.map",
+    "static/js/2.71b75e01.chunk.js.LICENSE.txt": "/MINI-IPOD/static/js/2.71b75e01.chunk.js.LICENSE.txt",
+    "static/media/albums.b09054c9.png": "/MINI-IPOD/static/media/albums.b09054c9.png",
+    "static/media/allsongs.0c6197b3.gif": "/MINI-IPOD/static/media/allsongs.0c6197b3.gif",
+    "static/media/artists.7f5e149b.jpg": "/MINI-IPOD/static/media/artists.7f5e149b.jpg",
+    "static/media/coverflow.eb883fee.png": "/MINI-IPOD/static/media/coverflow.eb883fee.png",
+    "static/media/deserve-you.55454a9b.jpeg": "/MINI-IPOD/static/media/deserve-you.55454a9b.jpeg",
+    "static/media/deserve-you.d62eb2ea.mp3": "/MINI-IPOD/static/media/deserve-you.d62eb2ea.mp3",
+    "static/media/games.9b211f3c.jpeg": "/MINI-IPOD/static/media/games.9b211f3c.jpeg",
+    "static/media/stay.05b4658e.mp3": "/MINI-IPOD/static/media/stay.05b4658e.mp3",
+    "static/media/stay.f49ace90.png": "/MINI-IPOD/static/media/stay.f49ace90.png",
+    "static/media/wallpaper1.45956fad.jpg": "/MINI-IPOD/static/media/wallpaper1.45956fad.jpg",
+    "static/media/wallpaper2.da1b3da0.jpg": "/MINI-IPOD/static/media/wallpaper2.da1b3da0.jpg",
+    "static/media/wallpaper3.9d668e4c.jpg": "/MINI-IPOD/static/media/wallpaper3.9d668e4c.jpg",
+    "static/media/wallpaper4.a3cab313.jpg": "/MINI-IPOD/static/media/wallpaper4.a3cab313.jpg",
+    "static/media/wallpaper5.9baa5212.jpg": "/MINI-IPOD/static/media/wallpaper5.9baa5212.jpg",
+    "static/media/yummy.6e9ade2a.png": "/MINI-IPOD/static/media/yummy.6e9ade2a.png",
+    "static/media/yummy.8283f1f7.mp3": "/MINI-IPOD/static/media/yummy.8283f1f7.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.578761dc.js",
+    "static/js/2.71b75e01.chunk.js",
+    "static/css/main.3c43b714.chunk.css",
+    "static/js/main.b4c49a07.chunk.js"
+  ]
+}
